@@ -30,7 +30,7 @@ const HeroSection = () => {
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-tight">
               Get More Done
               <span className="block bg-gradient-to-r from-indigo-400 to-purple-500 bg-clip-text text-transparent">
-                with whitespace
+                with whitepace
               </span>
             </h1>
 

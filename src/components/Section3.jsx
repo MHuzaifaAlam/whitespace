@@ -14,7 +14,7 @@ const Section3 = () => {
             </h1>
 
             <p className="text-lg text-slate-400 mt-6 leading-relaxed">
-              You can use Whitespace as a browser extension, on your mobile
+              You can use Whitepace as a browser extension, on your mobile
               phone, and also on your desktop for a seamless productivity
               experience.
             </p>
